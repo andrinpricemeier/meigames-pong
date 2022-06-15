@@ -1,1 +1,0 @@
-tensorflowjs_converter --input_format keras pong_prediction.h5 tfjs_graph_model
